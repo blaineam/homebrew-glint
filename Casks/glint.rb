@@ -1,6 +1,6 @@
 cask "glint" do
-  version "1.1.0"
-  sha256 "530a0b2e3a8edcf369d588e69564d828793eb12a057dccc145816165d4368980"
+  version "1.2.0"
+  sha256 "b3edff4bddbb2530cfbf118299bede0bce2c91d0102274eec6cd6f3fd07cdebb"
 
   url "https://github.com/blaineam/Glint/releases/download/v#{version}/Glint.dmg"
   name "Glint"
